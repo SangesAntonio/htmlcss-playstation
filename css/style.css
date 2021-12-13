@@ -10,15 +10,22 @@
     height: 200px;
 }
 
-section{
-    border: 1px solid black;
-}
+
 /*Utilities*/
 
 /**IMG**/
 .cs-img{
     width: 80px;
+}
 
+.cs-background{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.cs-rounded{
+    border-radius: 20px;
 }
 
 /*icons*/
@@ -30,3 +37,7 @@ section{
 }
 
 /**CUSTOM LAYOUT**/
+
+.top-jumbotron{
+    margin-top: 116px;
+}

@@ -2,7 +2,7 @@
 
 .row{
     border: 1px dashed red;
-    height: auto;
+    
 }
 
 [class^="col"]{
@@ -17,7 +17,6 @@
 
 div{
     border: 1px solid orange;
-    height: auto;
 }
 
 .alto{
@@ -30,4 +29,11 @@ div{
 
 section{
     border: 1px solid black;
+}
+/*Utilities*/
+
+/**IMG**/
+.cs-img{
+    width: 80px;
+
 }

@@ -1,23 +1,6 @@
 /* todo: da eliminare*/
 
-.row{
-    border: 1px dashed red;
-    
-}
 
-[class^="col"]{
-    border: 1px dashed purple;
-    
-}
-
-.container{
-    border: 1px solid green;
-    
-}
-
-div{
-    border: 1px solid orange;
-}
 
 .alto{
     height: 400px;
@@ -37,3 +20,13 @@ section{
     width: 80px;
 
 }
+
+/*icons*/
+
+.header-bottom a i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+/**CUSTOM LAYOUT**/

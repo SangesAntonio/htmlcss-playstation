@@ -23,3 +23,11 @@ div{
 .alto{
     height: 400px;
 }
+
+.medio{
+    height: 200px;
+}
+
+section{
+    border: 1px solid black;
+}

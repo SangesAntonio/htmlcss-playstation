@@ -1,18 +1,7 @@
-/* todo: da eliminare*/
-
-
-
-.alto{
-    height: 400px;
-}
-
-.medio{
-    height: 200px;
-}
-
-
 /*Utilities*/
-
+.cs-bg-black{
+    background-color: #1F1F1F;
+}
 /**IMG**/
 .cs-img{
     width: 80px;
@@ -21,11 +10,26 @@
 .cs-background{
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
-    background-position: center;
+    background-position: top center;
+}
+
+.cs-logo-jumbotron{
+    margin-top: 150px;
 }
 
 .cs-rounded{
     border-radius: 20px;
+}
+
+.cs-second-jumbotron{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.cs-img-size{
+    width: 60%;
+    padding-top: 50px;
 }
 
 /*icons*/
@@ -44,6 +48,11 @@
 
 /*text*/
 
+.top-jumbotron h1{
+    font-size: 45px;
+    font-weight: 600;
+}
+
 .play-s-5 h1{
     font-size: 45px;
     font-weight: 600;
@@ -58,3 +67,18 @@
     font-weight: 600;
     font-size: 22px;
 }
+
+.new-games h1,
+.cs-second-jumbotron h1{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.new-games h6{
+    font-size: 1.2rem;
+}
+
+.cs-second-jumbotron{
+    font-weight: 600;
+}
+

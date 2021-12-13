@@ -53,6 +53,7 @@
     font-weight: 600;
 }
 
+.title-section,
 .play-s-5 h1{
     font-size: 45px;
     font-weight: 600;
@@ -62,12 +63,11 @@
     font-weight: 600;
     margin-bottom: 0;
 }
-
+.cs-playstation4 p,
 .play-s-5 p{
     font-weight: 600;
     font-size: 22px;
 }
-
 .new-games h1,
 .cs-second-jumbotron h1{
     font-size: 35px;
@@ -82,3 +82,6 @@
     font-weight: 600;
 }
 
+.cs-playstation4{
+
+}

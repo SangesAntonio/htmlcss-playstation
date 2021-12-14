@@ -6,6 +6,10 @@
 .cs-bg-gray{
     background-color: #BEBCBB;
 }
+
+.cs-bg-darkblue{
+    background-color: #161C3B;
+}
 /**IMG**/
 .cs-img{
     width: 80px;
@@ -73,7 +77,7 @@
 .play-s-5 p{
     font-weight: 600;
     font-size: 22px;
-    
+
 }
 .new-games h1,
 .cs-second-jumbotron h1{

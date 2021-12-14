@@ -2,6 +2,10 @@
 .cs-bg-black{
     background-color: #1F1F1F;
 }
+
+.cs-bg-gray{
+    background-color: #BEBCBB;
+}
 /**IMG**/
 .cs-img{
     width: 80px;
@@ -63,10 +67,13 @@
     font-weight: 600;
     margin-bottom: 0;
 }
+
+.cs-paragraph-section,
 .cs-playstation4 p,
 .play-s-5 p{
     font-weight: 600;
     font-size: 22px;
+    
 }
 .new-games h1,
 .cs-second-jumbotron h1{

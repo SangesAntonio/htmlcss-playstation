@@ -36,7 +36,7 @@
 }
 
 .cs-img-size{
-    width: 60%;
+    width: 50%;
     padding-top: 50px;
 }
 
@@ -61,7 +61,7 @@
     font-weight: 600;
 }
 
-.title-section,
+
 .play-s-5 h1{
     font-size: 45px;
     font-weight: 600;
@@ -79,6 +79,7 @@
     font-size: 22px;
 
 }
+.title-section,
 .new-games h1,
 .cs-second-jumbotron h1{
     font-size: 35px;

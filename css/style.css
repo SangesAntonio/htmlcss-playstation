@@ -10,6 +10,10 @@
 .cs-bg-darkblue{
     background-color: #161C3B;
 }
+
+.cs-bg-blue{
+    background-color: #00439C;
+}
 /**IMG**/
 .cs-img{
     width: 80px;
@@ -97,4 +101,12 @@
 .footer-list li a{
     color: white;
     text-decoration: none;
+}
+
+/*? HOVER EFFECT*/
+
+.cs-button-effect:hover{
+    background-color: lightgray;
+    box-shadow: 10px 10px 10px red;
+    color: black;
 }

@@ -66,8 +66,8 @@
 
 /**CUSTOM LAYOUT**/
 
-.top-jumbotron{
-    margin-top: 116px;
+body{
+    padding-top: 116px;
 }
 
 /*text*/
